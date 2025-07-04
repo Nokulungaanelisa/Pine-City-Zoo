@@ -1,2 +1,2 @@
 # Pine-City-Zoo
-This is my first FNB app academy project 2025
+This is my second FNB app academy project 2025
